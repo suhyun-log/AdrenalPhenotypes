@@ -1,0 +1,7 @@
+"atlasId","atlasName","cohortId","name","tableName"
+1,"[AdrenalPhenotypes] Primary Aldosteronism",1,"Primary Aldosteronism","PA"
+2,"[AdrenalPhenotypes] Adrenal Cushing Syndrome",2,"Adrenal Cushing Syndrome","ACS"
+3,"[AdrenalPhenotypes] Pheochromocytoma or Paraganglioma",3,"Pheochromocytoma or Paraganglioma","PPC_PGL"
+4,"[AdrenalPhenotypes] Adrenal Cortical Carcinoma",4,"Adrenal Cortical Carcinoma","ACS"
+5,"[AdrenalPhenotypes] Nonfunctioning Adrenal Adenoma",5,"Nonfunctioning Adrenal Adenoma","NFAA"
+6,"[AdrenalPhenotypes] Mild Autonomous Cortisol Secretion",6,"Mild Autonomous Cortisol Secretion","MACS"
